@@ -1,0 +1,82 @@
+{
+    "aliquot": 5130, 
+    "analysis_type": "blank_unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystal", 
+    "commit": "af266734e4202c5595267e47d708fc432fd6413d", 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "bu-FC-J", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "blank", 
+    "measurement": "", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Irradiation-NM-278", 
+    "sample": "blank_unknown", 
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
+    "timestamp": "2015-11-07T16:02:25", 
+    "username": "", 
+    "uuid": "533e5430-8b50-4162-aed0-92036c2884e2"
+}
