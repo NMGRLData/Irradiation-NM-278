@@ -1,32 +1,51 @@
 {
     "Ar36": {
-        "error": 0.0014716818581491349, 
-        "fit": "Linear", 
-        "value": 0.017148224535735689
+        "error": 0.0006077762680433463, 
+        "filter_outliers": true, 
+        "fit": "Parabolic", 
+        "iterations": 1, 
+        "std_devs": 2, 
+        "value": 0.0173049464248103
     }, 
     "Ar37": {
-        "error": 0.041954163951268934, 
-        "fit": "linear", 
-        "value": 0.063935471813906172
+        "error": 0.008919342306550034, 
+        "filter_outliers": true, 
+        "fit": "Linear", 
+        "iterations": 1, 
+        "std_devs": 2, 
+        "value": 0.06393547181390617
     }, 
     "Ar38": {
-        "error": 0.020763952149385007, 
-        "fit": "linear", 
-        "value": 0.13550715650708142
+        "error": 0.004460168114650508, 
+        "filter_outliers": true, 
+        "fit": "Linear", 
+        "iterations": 1, 
+        "std_devs": 2, 
+        "value": 0.13550715650708148
     }, 
     "Ar39": {
-        "error": 0.076509179104487457, 
-        "fit": "Linear", 
-        "value": 13.699855000360579
+        "error": 0.03082619872840791, 
+        "filter_outliers": true, 
+        "fit": "Parabolic", 
+        "iterations": 1, 
+        "std_devs": 2, 
+        "value": 13.694939212244728
     }, 
     "Ar40": {
-        "error": 0.29395264775368762, 
-        "fit": "Linear", 
-        "value": 875.76996885187498
+        "error": 0.10855664754512315, 
+        "filter_outliers": true, 
+        "fit": "Parabolic", 
+        "iterations": 1, 
+        "std_devs": 2, 
+        "value": 876.2766998987254
     }, 
     "Ar41": {
-        "error": 0.1038815998429006, 
+        "error": 0.009860005110245065, 
+        "filter_outliers": true, 
         "fit": "Average", 
-        "value": -0.18161573922439889
-    }
+        "iterations": 1, 
+        "std_devs": 2, 
+        "value": -0.1816157392243989
+    }, 
+    "reviewed": true
 }
